@@ -62,7 +62,7 @@ A função `inserir_dados()` usa `try/except ValueError` para capturar entradas 
 
 ### Terminal colorido
 
-O sistema utiliza **códigos de escape ANSI** para colorir as mensagens no terminal:
+O sistema utiliza **códigos ANSI** para colorir as mensagens no terminal:
 
 | Código | Cor | Uso |
 |---|---|---|
