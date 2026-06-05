@@ -83,5 +83,4 @@ O sistema utiliza **códigos ANSI** para colorir as mensagens no terminal:
 ## 👥 Integrantes do grupo
 
 - Nicolas Andrade Rodrigues RM572782
-- Lucas Caram
--
+- Lucas Caram Bueno RM570158
